@@ -24,6 +24,7 @@
 //     priceCents: 799
 // } 
 // ];
+import {cart} from '../data/cart.js'
 
 let productsHTML= '';
 
